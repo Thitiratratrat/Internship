@@ -14,10 +14,10 @@ How to compile the program:
 2. type in the filename Hangman.py to run the program
 
 *Each word in the category contains 3 hints <br />
-1.Given hint <br />
+1. Given hint <br />
 Additional hints (appears when user uses 5 coins and types 'hint' when guessing the hangman word): <br />
-2.Image hint or music hint (only for song titles category) <br />
-3.Replaces a letter in the word
+2. Image hint or music hint (only for song titles category) <br />
+3. Replaces a letter in the word
 
 ## Weather
 How to compile the program:  <br />
