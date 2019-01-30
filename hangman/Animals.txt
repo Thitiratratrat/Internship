@@ -1,0 +1,9 @@
+8
+Elephant,One of the most unique animals in Thailand,Animals_Hints/Elephant.jpg
+Bear,Favorite food: Honey and Salmon,Animals_Hints/Bear.jpg
+Lion,You better hear me roar!,Animals_Hints/Lion.jpg
+Owl,I'm watching you at night,Animals_Hints/Owl.jpg
+Seal,You will see me in the circus.,Animals_Hints/Seal.jpg
+Flamingo,Elegant in pink!,Animals_Hints/Flamingo.jpg
+Giraffe,Blue tongue,Animals_Hints/Giraffe.jpg
+Koala,Eucalyptus,Animals_Hints/Koala.jpg

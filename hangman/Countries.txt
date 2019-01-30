@@ -1,0 +1,9 @@
+8
+United States of America,French fries and burgers,Countries_Hints/USA.jpg
+India,Curry,Countries_Hints/India.jpg
+Russia,Doll in doll,Countries_Hints/Russia.jpg
+Japan,AKB48,Countries_Hints/Japan.jpg
+Australia,Great Barrier Reef,Countries_Hints/Australia.jpg
+France,Romantic Country,Countries_Hints/France.jpg
+Germany,Sausage,Countries_Hints/Germany.jpg
+England,Sherlock,Countries_Hints/England.jpg

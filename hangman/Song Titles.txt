@@ -1,0 +1,9 @@
+8
+Love Someone,Lukas Graham,Songs_Hints/Love_Someone.wav
+Happier,Marshmallow,Songs_Hints/Happier.wav
+Demons,Imagine Dragons,Songs_Hints/Demons.wav
+Unlonely,Jason Mraz,Songs_Hints/Unlonely.wav
+I'm Yours,Jason Mraz,Songs_Hints/I'm_Yours.wav
+Not Today,Imagine Dragons,Songs_Hints/Not_Today.wav
+Lie to Me,5SOS,Songs_Hints/Lie_to_Me.wav
+I Like Me Better,Lauv,Songs_Hints/I_Like_Me_Better.wav
