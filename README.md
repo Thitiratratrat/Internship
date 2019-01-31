@@ -20,6 +20,10 @@ Additional hints (appears when user uses 5 coins and types 'hint' when guessing 
 3. Replaces a letter in the word
 
 ## Weather
+Installation:
+'''console
+$ pip install -r requirements.txt
+'''
 How to compile the program:  <br />
 1. cd to the location of the file from the terminal
 3. type in the filename XML_to_Json.py to run the program
