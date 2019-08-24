@@ -2,7 +2,7 @@
 
 ## Other Projects
 EzGard Garden Design Project <br />
-https://github.com/Thitiratratrat/EzGard-Garden-Design-Project-
+https://github.com/Thitiratratrat/EzGard-Garden-Design-Project
 
 ## Hangman
 Thitirat Siripaiboolpong <br />
